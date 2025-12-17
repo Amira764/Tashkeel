@@ -3,3 +3,7 @@ BILSTM_diacritization_tensorflow.ipynb
 diacritization-nlp.ipynb
 bilstm_diacritization_pytorch.ipynb
 test/
+csv/
+Output/
+dataset/
+bilstm_testing copy.ipynb
